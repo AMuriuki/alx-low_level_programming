@@ -18,7 +18,7 @@ int main(void)
 		{
 			continue;
 		}
-		else 
+		else
 		{
 			putchar(',');
 			putchar(' ');
@@ -29,7 +29,7 @@ int main(void)
 			c++;
 			d = c;
 		}
-	}	
+	}
 	putchar('\n');
 	return (0);
 }
