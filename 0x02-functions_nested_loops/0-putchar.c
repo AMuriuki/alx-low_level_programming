@@ -18,6 +18,6 @@ int main(void)
 		m++;
 	}
 	_putchar('\n');
-	
+
 	return (0);
 }
