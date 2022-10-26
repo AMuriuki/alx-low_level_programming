@@ -23,7 +23,7 @@ void print_triangle(int size)
 				_putchar('#');
 			}
 
-			if (h = size)
+			if (h == size)
 			{
 				continue;
 			}
@@ -31,5 +31,5 @@ void print_triangle(int size)
 			_putchar('\n');
 		}
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
